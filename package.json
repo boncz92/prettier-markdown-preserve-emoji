@@ -1,0 +1,31 @@
+{
+  "name": "prettier-plugin-markdown-preserve-emoji",
+  "version": "1.0.0",
+  "description": "A Prettier plugin that properly handles emoji names in markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-plugin",
+    "markdown",
+    "emoji"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boncz92/prettier-md-preserve-emoji.git"
+  },
+  "bugs": {
+    "url": "https://github.com/boncz92/prettier-md-preserve-emoji/issues"
+  },
+  "homepage": "https://github.com/boncz92/prettier-md-preserve-emoji#readme"
+}
