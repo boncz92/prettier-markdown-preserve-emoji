@@ -1,6 +1,6 @@
 {
   "name": "prettier-plugin-markdown-preserve-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Prettier plugin that properly handles emoji names in markdown",
   "main": "index.js",
   "scripts": {
